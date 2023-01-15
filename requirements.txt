@@ -40,7 +40,7 @@ tomli==2.0.0
     # via pep517
 virtualenv==20.13.0
     # via pre-commit
-wheel==0.37.1
+wheel==0.38.1
     # via
     #   -r requirements.in
     #   pip-tools
