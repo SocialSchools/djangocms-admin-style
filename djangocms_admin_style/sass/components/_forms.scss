@@ -44,7 +44,7 @@ form {
         // Improve readability by increasing contrast
         & div > label:not(.vCheckboxLabel) {
             color: $gray-darker !important;
-            font-weight: bold !important;
+            // font-weight: bold !important;
             width: 100% !important;
             text-transform: inherit;
         }
