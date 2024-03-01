@@ -128,8 +128,9 @@ form {
         .cke, .widget) {
             margin-right: 0px;
             box-sizing: border-box;
-            width: 50%;
-            max-width: 500px;
+            // This breaks our form styling. So disabling it for now. A better solution would be to do it for the specific fields that need it.
+            // width: 50%;
+            // max-width: 500px;
 
             & > label {
                 text-transform: inherit;
