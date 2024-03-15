@@ -25,6 +25,10 @@ form {
         & > div:has(> div.hidden) {
             display: none;
         }
+
+        & > div {
+            width: 50%;
+        }
     }
     fieldset.module > h2 {
         margin-right: 20px;
