@@ -447,10 +447,11 @@ ul.messagelist + #content {
         color: $color-primary;
         font-weight: normal;
         background-image: none;
-        padding: 3px 0 3px 18px;
+        padding: 3px 0 3px 0px;
         margin: 0;
         opacity: 0.5;
         overflow: visible;
+        text-align: center;
         &:before {
             color: $gray-light;
         }
